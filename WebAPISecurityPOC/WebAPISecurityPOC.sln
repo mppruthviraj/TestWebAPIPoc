@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Certificates", "Certificates", "{AF3AC600-69DF-46C4-88FB-542981DA9265}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\user\Desktop\localtestclientcert.cer = C:\Users\user\Desktop\localtestclientcert.cer
+		C:\Users\user\Desktop\localtestclientcert.pfx = C:\Users\user\Desktop\localtestclientcert.pfx
+		C:\Users\user\Desktop\localtestclientcert.pvk = C:\Users\user\Desktop\localtestclientcert.pvk
+		C:\Users\user\Desktop\RootCertificate.cer = C:\Users\user\Desktop\RootCertificate.cer
+		C:\Users\user\Desktop\RootCertificate.pfx = C:\Users\user\Desktop\RootCertificate.pfx
+		C:\Users\user\Desktop\RootCertificate.pvk = C:\Users\user\Desktop\RootCertificate.pvk
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
